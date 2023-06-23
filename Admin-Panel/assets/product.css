@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+}
+
+.exitbtn {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+
+form {
+    background-image: url(https://w0.peakpx.com/wallpaper/168/539/HD-wallpaper-space-open-space-planets-art-colorful.jpg);
+}
+
+input {
+    border-radius: 5px;
+    border: none;
+    display: inline-block;
+}
+
+
+label {
+    margin: 5px;
+    color: beige;
+}
+
+
+button {
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+#description {
+    border-radius: 5px;
+}
